@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2o0012/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十五
+  hash: sha256:4a540dfc960a59c2dec4cdfbeae70a4cdb4cf072e21e65c814c7bffa22e3211a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2o0012_WYG_000-1a, image: WYG0686/WYG0686-0413a.png}
+body:
+  text: 兩漢筆記史評類提要臣等謹案兩漢筆記十二卷宋錢時撰時有融堂書解已著録此書皆評論漢史嘉熙二年嘗經奏進前有尚書省劄稱十二卷與此本合葉盛水東日記以為不完之本非也其例以兩漢書舊文為綱而各附論斷于其下前一二卷頗染胡寅讀史管見之習如蕭何收秦圖籍則責其不收六經又何勸高帝勿攻項羽歸蜀則責其出於詐術以曹參文帝為陷溺于邪說而歸其過于張良于陸賈新語則責其不知仁義皆故為苛論以自矜高識三卷以後乃漸近情理持論多得是非之平其中如于張良諫封六國後論封建必不可復郡縣不能不置于董仲舒請限民名田論井田必不可行于文帝除肉刑亦不甚以為過尤能滌講學家胸無一物高談三代之窠臼至其論董仲舒對策以道之大原不在天而在心則金溪學𣲖之宗㫖論元帝以客禮待呼韓邪論光武閉關謝西域皆極稱其能忍善讓則南渡和議之飾詞所為有為言之者置而不論可矣乾隆四十二年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:28b9a9aabc7a5d31d89f2887d90a3d1e028396f3fb7cea0b9d65886d8182cc9c
+metadata:
+  title: 兩漢筆記
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:56:04.329525'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2o0012/KR2o0012_000.txt
+hash: sha256:110cbba56d0e2a00b4cf43a5fb49101ca00187c1204c305701e9ced617819432
